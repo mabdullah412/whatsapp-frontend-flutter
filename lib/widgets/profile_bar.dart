@@ -8,7 +8,7 @@ class ProfileBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      // height: MediaQuery.of(context).size.height * 0.077,
+      height: MediaQuery.of(context).size.height * 0.077,
       padding: const EdgeInsets.all(10),
       decoration: const BoxDecoration(
         border: Border(
