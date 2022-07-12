@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_clone/widgets/input_message_bar.dart';
 
-import '../colors.dart';
 import '../widgets/chat_list.dart';
 import '../widgets/contacts_list.dart';
 import '../widgets/desktop_chat_appbar.dart';
+import '../widgets/input_message_bar.dart';
 import '../widgets/profile_bar.dart';
 import '../widgets/search_bar.dart';
 

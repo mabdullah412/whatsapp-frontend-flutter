@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_clone/info.dart';
 
 import '../colors.dart';
+import '../info.dart';
 
 class DesktopChatAppBar extends StatelessWidget {
   const DesktopChatAppBar({Key? key}) : super(key: key);
