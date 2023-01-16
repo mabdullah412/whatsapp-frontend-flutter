@@ -1,5 +1,5 @@
-# whatsapp_clone
+# whatsapp_frontend_clone
 
-👷‍♂️ Currently in development.
+# 👷‍♂️ Currently in development.
 
-Responsive WhatsApp clone built with flutter and firebase.
+Responsive WhatsApp messages screen Frontend clone made with flutter.
